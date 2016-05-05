@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[clear space]]></title>
-        <description><![CDATA[clear space]]></description>
+        <title><![CDATA[Smart. Simple. Creative.]]></title>
+        <description><![CDATA[Smart. Simple. Creative.]]></description>
         <link>https://thegrid.ai/clear-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:58:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clear-space/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>draft copy</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd520f8b-284a-420c-a343-d18677e643b0.jpg">]]></description>
             <link>https://thegrid.ai/clear-space/f9d1fd1b-2882-461e-bfc5-3fb0867136fe/index.html</link>
             <guid isPermaLink="false">f9d1fd1b-2882-461e-bfc5-3fb0867136fe</guid>
-            <pubDate>Wed, 09 Mar 2016 20:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'm not sure if this is going to work. What makes one typeface more formal than another. Or one layout more editorial than another. It's great that this is a fast way to create a site but I wouldn't say that it's designing for you. Just first thoughts and to be fair I've posted one thing. Let's see.</p>]]></description>
-            <link>https://thegrid.ai/clear-space/7e0d676b-ae6a-4c84-b863-298c84b07f0f/index.html</link>
-            <guid isPermaLink="false">7e0d676b-ae6a-4c84-b863-298c84b07f0f</guid>
-            <pubDate>Wed, 09 Mar 2016 18:22:58 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 21:58:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/clear-space/first-post/index.html</link>
             <guid isPermaLink="false">6c3ed868-ee78-42a2-a6e5-bc4332fb3ec1</guid>
             <pubDate>Wed, 09 Mar 2016 20:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm not sure if this is going to work. What makes one typeface more formal than another. Or one layout more editorial than another. It's great that this is a fast way to create a site but I wouldn't say that it's designing for you. Just first thoughts and to be fair I've posted one thing. Let's see.</p>]]></description>
+            <link>https://thegrid.ai/clear-space/7e0d676b-ae6a-4c84-b863-298c84b07f0f/index.html</link>
+            <guid isPermaLink="false">7e0d676b-ae6a-4c84-b863-298c84b07f0f</guid>
+            <pubDate>Wed, 09 Mar 2016 18:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
