@@ -4,8 +4,15 @@
         <description><![CDATA[Smart. Simple. Creative.]]></description>
         <link>https://thegrid.ai/clear-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 22:01:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clear-space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/beb58d50-c293-4aac-a777-997ed5177c35.jpg">]]></description>
+            <link>https://thegrid.ai/clear-space/7e0d676b-ae6a-4c84-b863-298c84b07f0f/index.html</link>
+            <guid isPermaLink="false">7e0d676b-ae6a-4c84-b863-298c84b07f0f</guid>
+            <pubDate>Thu, 05 May 2016 22:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd520f8b-284a-420c-a343-d18677e643b0.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/clear-space/first-post/index.html</link>
             <guid isPermaLink="false">6c3ed868-ee78-42a2-a6e5-bc4332fb3ec1</guid>
             <pubDate>Wed, 09 Mar 2016 20:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'm not sure if this is going to work. What makes one typeface more formal than another. Or one layout more editorial than another. It's great that this is a fast way to create a site but I wouldn't say that it's designing for you. Just first thoughts and to be fair I've posted one thing. Let's see.</p>]]></description>
-            <link>https://thegrid.ai/clear-space/7e0d676b-ae6a-4c84-b863-298c84b07f0f/index.html</link>
-            <guid isPermaLink="false">7e0d676b-ae6a-4c84-b863-298c84b07f0f</guid>
-            <pubDate>Wed, 09 Mar 2016 18:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
